@@ -1,11 +1,25 @@
 @{
     Layout = null;
+    var username = Context.Session.GetString("Username");
 }
 
 <!DOCTYPE html>
 <html>
-<head> </head>
-    <body>
-        <h1>Welcome!</h1>
-    </body>
+<head>
+    <title>Expensir - Dashboard</title>
+    <link rel="stylesheet" href="/css/Dashboard.css">
+</head>
+<body>
+
+    <div class="TopBar">
+        <h2>Expensir</h2>
+
+        <p>Welcome, @username</p>
+    </div>
+
+    <div class="Main">
+        <h1>Dashboard</h1>
+    </div>
+
+</body>
 </html>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Expensir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+943bdb532f49e203d6e24f64ba07d95ee2e368c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e4006fe1b65a0334892766328ee844a5c1cc366")]
 [assembly: System.Reflection.AssemblyProductAttribute("Expensir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Expensir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

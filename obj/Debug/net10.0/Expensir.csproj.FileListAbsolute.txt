@@ -96,7 +96,6 @@
 /workspaces/Expensir/obj/Debug/net10.0/Expensir.pdb
 /workspaces/Expensir/obj/Debug/net10.0/Expensir.genruntimeconfig.cache
 /workspaces/Expensir/obj/Debug/net10.0/ref/Expensir.dll
-/workspaces/Expensir/obj/Debug/net10.0/compressed/wupac7lwe7-{0}-6no3wskp01-6no3wskp01.gz
 /workspaces/Expensir/obj/Debug/net10.0/Expensir.csproj.AssemblyReference.cache
 /workspaces/Expensir/bin/Debug/net10.0/Humanizer.dll
 /workspaces/Expensir/bin/Debug/net10.0/Microsoft.Build.Framework.dll
@@ -212,5 +211,7 @@
 /workspaces/Expensir/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
 /workspaces/Expensir/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
 /workspaces/Expensir/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
-/workspaces/Expensir/obj/Debug/net10.0/compressed/nd5as0md15-{0}-5ipweew5fc-5ipweew5fc.gz
 /workspaces/Expensir/obj/Debug/net10.0/Expensir.csproj.Up2Date
+/workspaces/Expensir/obj/Debug/net10.0/compressed/h4dy20lyym-{0}-7i8cpsagzx-7i8cpsagzx.gz
+/workspaces/Expensir/obj/Debug/net10.0/compressed/nd5as0md15-{0}-lvwut853cl-lvwut853cl.gz
+/workspaces/Expensir/obj/Debug/net10.0/compressed/wupac7lwe7-{0}-8wm4my8x58-8wm4my8x58.gz

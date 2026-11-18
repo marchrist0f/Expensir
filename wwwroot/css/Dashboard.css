@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f6fa;
+}
+
+.TopBar {
+    background-color: #1e293b;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+
+.TopBar h2 {
+    margin: 0;
+}
+
+.TopBar p {
+    margin: 0;
+}
+
+.Main {
+    padding: 30px;
+}
+
+h1 {
+    color: #1e293b;
+}
